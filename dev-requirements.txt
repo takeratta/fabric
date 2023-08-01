@@ -15,7 +15,7 @@ flake8==3.6.0
 coverage==3.7.1
 codecov==1.6.3
 # Documentation tools
-sphinx>=1.4,<1.7
+sphinx>=3.3.0,<1.7
 alabaster==0.7.12
 releases>=1.5,<2.0
 # Release tools
